@@ -31,6 +31,7 @@ It includes:
 ---
 
 ## 📂 Project Structure
+'''
 stock-market-analysis/
 │
 ├── data/
@@ -54,7 +55,7 @@ stock-market-analysis/
 │
 ├── README.md
 
-
+'''
 ---
 
 ## 🔍 Workflow
