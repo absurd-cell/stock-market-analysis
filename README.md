@@ -29,9 +29,9 @@ It includes:
 - 📉 Visualization – Graphs for trend and insights  
 
 ---
-
+```
 ## 📂 Project Structure
-'''
+
 stock-market-analysis/
 │
 ├── data/
@@ -55,8 +55,8 @@ stock-market-analysis/
 │
 ├── README.md
 
-'''
----
+```
+
 
 ## 🔍 Workflow
 
@@ -116,7 +116,7 @@ python data_cleaning.py
 python feature_engineering.py
 python visualization.py
 python model.py
-
+```
 📈 Model Evaluation
 Mean Squared Error (MSE)
 R² Score
@@ -132,11 +132,14 @@ Volume impacts price movement
 ❌ Data not loading
 
 Ensure dataset is inside:
-
+```
 data/
+```
 
 ❌ Module not found
+```
 pip install required-library
+```
 
 📚 References
 NSE / Stock Market Data
@@ -144,7 +147,7 @@ Pandas, NumPy, Scikit-learn documentation
 
 👨‍💻 Author
 Shashank Singh Jalal
----
+
 
 
 
